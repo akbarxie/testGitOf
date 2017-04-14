@@ -5,3 +5,4 @@ git has mutable index called index
 oh my stupid boss is still perfer SVN
 after add remote github->this is for push to github
 creating a new branch is quick 
+creating a new branch is quick & simple
